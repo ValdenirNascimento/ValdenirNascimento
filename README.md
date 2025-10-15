@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/ZZzqR1I.png)
-
 ##  Valdenir Nascimento
 
 ###  Olá! Seja bem-vindo ao meu perfil
