@@ -1,16 +1,50 @@
-## Hi there 👋
+![Banner](https://i.imgur.com/ZZzqR1I.png)
 
-<!--
-**ValdenirNascimento/ValdenirNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Valdenir Nascimento
 
-Here are some ideas to get you started:
+### 👋 Olá! Seja bem-vindo ao meu perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor Front-End apaixonado por tecnologia e por transformar ideias em interfaces funcionais e bem projetadas. Atualmente, estou em busca da **minha primeira oportunidade como desenvolvedor**, onde eu possa evoluir, aprender com a equipe e contribuir com projetos reais. 🚀
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,github,vscode" />
+</div>
+
+---
+
+### 🌱 O que estou aprendendo atualmente
+
+- Aprimorando minhas habilidades em **React e TypeScript**
+- Boas práticas de **clean code e versionamento com Git**
+- Noções de **consumo de APIs e integração com back-end**
+
+---
+
+### 💼 Objetivo Profissional
+
+Busco uma **oportunidade como desenvolvedor júnior** (preferencialmente Front-End) para aplicar meus conhecimentos e crescer profissionalmente dentro da área de tecnologia.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ValdenirNascimento&show_icons=true&theme=tokyonight)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdenirNascimento&layout=compact&theme=tokyonight)
+</div>
+
+---
+
+### 📫 Entre em contato comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/valdenir-nascimento-santos-795b9b276/)
+- 📧 **valdenir.santos.731@gmail.com**
+- 🌐 [Portfólio (em breve)](#)
+
+---
+
+> 💡 “O sucesso é construído um commit de cada vez.”
