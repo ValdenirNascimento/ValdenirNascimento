@@ -2,10 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=28&center=true&vCenter=true&width=900&lines=Técnico+de+Suporte+%7C+Infraestrutura+de+Redes;Atendimento+e+solução+de+problemas+com+excelência" />
 </h1>
 
----
+<h2 align="center">
+  👋 Olá, eu sou Valdenir
+</h2>
 
-### 👋 Olá, eu sou Valdenir  
-**Soluções técnicas e infraestrutura de redes centradas em pessoas — unindo diagnóstico, atendimento e estratégia para criar conexões que realmente funcionam.**
+<p align="center">
+  <strong>Soluções técnicas e infraestrutura de redes centradas em pessoas — unindo diagnóstico, atendimento e estratégia para criar conexões que realmente funcionam.</strong>
+</p>
 
 ---
 
@@ -17,17 +20,19 @@ Essa visão centrada no usuário é o que guia meu trabalho. Acredito que o supo
 
 ---
 
-## 🎯 Minha Missão
+<h2 align="center">🎯 Minha Missão</h2>
 
 > *"Minha missão é transformar problemas em soluções e complexidade em clareza técnica. Seja na rede, no atendimento ou na infraestrutura. Acredito que boas conexões nascem da escuta genuína e de um processo de suporte bem estruturado. Por isso, coloco o usuário no centro de cada decisão — não como tendência, mas como princípio."*
 
 ---
 
-### 🌐 Quem é Valdenir?
+<h2 align="center">🌐 Quem é Valdenir?</h2>
 
-- Moro em **[Nova Mutum, MT, Brasil]**
-- Técnico de Suporte de Redes
-- Hoje tenho formação em **Engenharia de Software**
+<p align="center">
+  🏡 Moro em <strong>Nova Mutum, MT, Brasil</strong><br>
+  🔧 Técnico de Suporte de Redes<br>
+  🎓 Formado em <strong>Engenharia de Software</strong>
+</p>
 
 ---
 
@@ -37,17 +42,17 @@ Essa visão centrada no usuário é o que guia meu trabalho. Acredito que o supo
 - Atendimento técnico (N1/N2) remoto e presencial
 - Configuração de roteadores, switches e fibra óptica
 - Monitoramento de redes (IXC)
-- Comunicação e agendamento com clientes e técnicos.
+- Comunicação e agendamento com clientes e técnicos
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-
 - **Redes:** TCP/IP, DNS, DHCP, VPN, Firewall
 - **Sistemas:** Windows, Linux (básico)
 - **Ferramentas:** IXC, OPA
 - **Monitoramento:** INMAP
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
 </div>
@@ -64,22 +69,24 @@ Essa visão centrada no usuário é o que guia meu trabalho. Acredito que o supo
 
 ### 💼 Experiência
 
-**[Mutum Fibra]** — **[Suporte de TI]** | **[06/2026] → Atual**  
-*Atividades: Realizo diagnóstico e resolução de falhas em redes de fibra óptica, roteadores e switches, garantindo a estabilidade da conexão dos clientes
+**Mutum Fibra** — **Suporte de TI** | **06/2026 → Atual**  
 
-Atendo chamados N1/N2 via telefone, chat e atendimento presencial, com foco em resolver problemas com agilidade e clareza técnica.
-Configuro e mantenho equipamentos de rede (roteadores, ONUs, switches) para otimizar a performance e qualidade do sinal de internet.
-Monitoro a infraestrutura de rede utilizando ferramentas como IXC, identificando proativamente possíveis falhas.
-Sou responsável por auditar as ordens de serviço dos técnicos e demais funcionários, a fim de verificar se tudo está dentro dos padrões estabelecidos.
-Realizo testes de velocidade, ping e perda de pacotes para diagnosticar problemas de conectividade e latência
-Auxilio clientes com configurações de Wi-Fi, DNS, DHCP e VPN, garantindo uma experiência de navegação satisfatória
+*Atividades:*
+- Realizo diagnóstico e resolução de falhas em redes de fibra óptica, roteadores e switches, garantindo a estabilidade da conexão dos clientes
+- Atendo chamados N1/N2 via telefone, chat e atendimento presencial, com foco em resolver problemas com agilidade e clareza técnica
+- Configuro e mantenho equipamentos de rede (roteadores, ONUs, switches) para otimizar a performance e qualidade do sinal de internet
+- Monitoro a infraestrutura de rede utilizando ferramentas como IXC, identificando proativamente possíveis falhas
+- Sou responsável por auditar as ordens de serviço dos técnicos e demais funcionários, a fim de verificar se tudo está dentro dos padrões estabelecidos
+- Realizo testes de velocidade, ping e perda de pacotes para diagnosticar problemas de conectividade e latência
+- Auxilio clientes com configurações de Wi-Fi, DNS, DHCP e VPN, garantindo uma experiência de navegação satisfatória
 
 ---
 
 ### 🎓 Formação
 
-**[Engeharia de Software]** — **[Unopar]** | **[2026]**  
-*Formado em Engenharia de Software, com atuação prática em Redes de Computadores. Essa combinação me dá uma visão integrada entre desenvolvimento e infraestrutura, unindo lógica de sistemas à conectividade e segurança de redes*
+**Engenharia de Software** — **Unopar** | **2026**  
+
+*Formado em Engenharia de Software, com atuação prática em Redes de Computadores. Essa combinação me dá uma visão integrada entre desenvolvimento e infraestrutura, unindo lógica de sistemas à conectividade e segurança de redes.*
 
 ---
 
