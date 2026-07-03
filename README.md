@@ -78,17 +78,21 @@ Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabb
 ### 💼 Experiência
 
 **[Mutum Fibra]** — **[Suporte de TI]** | **[06/2026] → Atual**  
-*Atividades: [Descreva suas atividades atuais]*
+*Atividades: Realizo diagnóstico e resolução de falhas em redes de fibra óptica, roteadores e switches, garantindo a estabilidade da conexão dos clientes
+
+Atendo chamados N1/N2 via telefone, chat e atendimento presencial, com foco em resolver problemas com agilidade e clareza técnica.
+Configuro e mantenho equipamentos de rede (roteadores, ONUs, switches) para otimizar a performance e qualidade do sinal de internet.
+Monitoro a infraestrutura de rede utilizando ferramentas como IXC, identificando proativamente possíveis falhas.
+Sou responsável por auditar as ordens de serviço dos técnicos e demais funcionários, a fim de verificar se tudo está dentro dos padrões estabelecidos.
+Realizo testes de velocidade, ping e perda de pacotes para diagnosticar problemas de conectividade e latência
+Auxilio clientes com configurações de Wi-Fi, DNS, DHCP e VPN, garantindo uma experiência de navegação satisfatória
 
 ---
 
 ### 🎓 Formação
 
-**[Curso/Formação]** — **[Instituição]** | **[Ano de Conclusão]**  
-*[Detalhes do curso]*
-
-**[Curso/Formação]** — **[Instituição]** | **[Ano de Conclusão]**  
-*[Detalhes do curso]*
+**[Engeharia de Software]** — **[Unopar]** | **[2026]**  
+*[Formado em Engenharia de Software, com atuação prática em Redes de Computadores. Essa combinação me dá uma visão integrada entre desenvolvimento e infraestrutura, unindo lógica de sistemas à conectividade e segurança de redes]*
 
 ---
 
