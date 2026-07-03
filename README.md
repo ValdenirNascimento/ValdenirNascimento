@@ -1,55 +1,56 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=28&center=true&vCenter=true&width=900&lines=Analista+de+Dados+%7C+Desenvolvedor+QGIS;Dados+e+Geoprocessamento+para+decisões+inteligentes" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=28&center=true&vCenter=true&width=900&lines=Técnico+de+Suporte+%7C+Infraestrutura+de+Redes;Atendimento+e+solução+de+problemas+com+excelência" />
 </h1>
 
-## 📊🗺️ Valdenir Nascimento  
+## 🌐🔧 Valdenir Nascimento  
 
 ### 👋 Olá! Seja bem-vindo ao meu perfil  
 
-Sou **Analista de Dados e Desenvolvedor QGIS**, com foco em **análise de dados, visualização e soluções geoespaciais**.  
-Tenho interesse em transformar dados brutos e informações espaciais em **insights estratégicos, mapas inteligentes e apoio à tomada de decisão**.
+Sou **Técnico de Suporte e Infraestrutura de Redes**, com foco em **atendimento ao cliente, diagnóstico e resolução de problemas técnicos**.  
+Tenho experiência em **suporte N1/N2, configuração de roteadores, identificação de falhas em redes de internet e manutenção de equipamentos**.  
 
-Atualmente, estou em busca de uma **oportunidade profissional júnior ou inicial** nas áreas de **Dados, BI ou Geoprocessamento (GIS/QGIS)**. 🚀  
+Atualmente, estou em busca de uma **oportunidade profissional na área de Suporte Técnico ou Infraestrutura de Redes**, onde possa aplicar minhas habilidades para garantir a melhor experiência para os clientes. 🚀  
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas  
 
-#### 📊 Dados & Análise
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Excel / Google Sheets
-- Power BI / Visualização de Dados
+#### 🌐 Redes & Infraestrutura
+- Configuração de roteadores e switches
+- Diagnóstico de falhas em rede
+- Fibra óptica / Cabeamento estruturado
+- Monitoramento de redes (Nagios, Zabbix)
 
-#### 🗺️ Geoprocessamento & GIS
-- QGIS
-- PostGIS
-- Análise espacial
-- Mapas temáticos e georreferenciamento
+#### 💻 Suporte & Atendimento
+- Atendimento ao cliente (N1/N2)
+- Gestão de chamados (GLPI, OTRS, Freshdesk)
+- Resolução remota e presencial
+- Documentação de procedimentos
 
-#### 💻 Desenvolvimento & Versionamento
-- Git & GitHub
-- JavaScript (básico)
-- VS Code
+#### 🔧 Sistemas & Ferramentas
+- Windows / Linux (básico)
+- Active Directory
+- DNS / DHCP
+- VPN / Firewall (conceitos básicos)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,javascript,vscode" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
 </div>
 
 ---
 
 ### 🌱 O que estou aprendendo atualmente  
 
-- Análise exploratória de dados (EDA)
-- Dashboards orientados a negócio
-- Automação de processos com Python
-- Integração de dados espaciais com **QGIS + PostGIS**
+- Redes de computadores (TCP/IP, protocolos)
+- Automação de tarefas de suporte com Python
+- Segurança da informação básica
+- Certificações: CCNA (em andamento)
 
 ---
 
 ### 💼 Objetivo Profissional  
 
-Atuar como **Analista de Dados Júnior ou Desenvolvedor QGIS**, contribuindo com análises, visualizações e soluções geoespaciais que apoiem decisões estratégicas baseadas em dados.
+Atuar como **Técnico de Suporte ou Analista de Infraestrutura Júnior**, garantindo a estabilidade e qualidade dos serviços de internet, com foco em **atendimento ágil, soluções eficientes e satisfação do cliente**.
 
 ---
 
@@ -66,9 +67,9 @@ Atuar como **Analista de Dados Júnior ou Desenvolvedor QGIS**, contribuindo com
 
 ### 📂 Projetos  
 
--  **Análise de Dados**: limpeza, exploração e visualização de dados reais  
--  **Projetos QGIS**: mapas temáticos, análises espaciais e dados geográficos  
--  **Dashboards**: visualizações focadas em tomada de decisão  
+-  **Relatórios de suporte**: análise de chamados e métricas de atendimento  
+-  **Automação**: scripts para diagnóstico e monitoramento de redes  
+-  **Documentação técnica**: manuais e procedimentos internos  
 
 *(em constante evolução)*
 
