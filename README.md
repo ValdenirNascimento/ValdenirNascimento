@@ -39,7 +39,7 @@ Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabb
 ### 🌐 Quem é Valdenir?
 
 - Moro em **[Nova Mutum, MT, Brasil]**
-- Técnico de Suporte de Telecom
+- Técnico de Suporte de Redes
 - Hoje tenho formação em **Engenharia de Software**
 
 ---
@@ -49,9 +49,8 @@ Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabb
 - Diagnóstico e resolução de falhas em redes
 - Atendimento técnico (N1/N2) remoto e presencial
 - Configuração de roteadores, switches e fibra óptica
-- Monitoramento de redes (Nagios, Zabbix)
-- Documentação de procedimentos e manuais
-- Suporte a sistemas Windows e Linux (básico)
+- Monitoramento de redes (IXC)
+- Comunicação e agendamento com clientes e técnicos.
 
 ---
 
@@ -78,11 +77,8 @@ Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabb
 
 ### 💼 Experiência
 
-**[Empresa Atual]** — **[Cargo]** | **[Mês/Ano] → Atual**  
+**[Mutum Fibra]** — **[Suporte de TI]** | **[06/2026] → Atual**  
 *Atividades: [Descreva suas atividades atuais]*
-
-**[Empresa Anterior]** — **[Cargo]** | **[Mês/Ano] → [Mês/Ano]**  
-*Atividades: [Descreva suas atividades]*
 
 ---
 
