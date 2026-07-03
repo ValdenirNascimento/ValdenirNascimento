@@ -92,14 +92,7 @@ Auxilio clientes com configurações de Wi-Fi, DNS, DHCP e VPN, garantindo uma e
 ### 🎓 Formação
 
 **[Engeharia de Software]** — **[Unopar]** | **[2026]**  
-*[Formado em Engenharia de Software, com atuação prática em Redes de Computadores. Essa combinação me dá uma visão integrada entre desenvolvimento e infraestrutura, unindo lógica de sistemas à conectividade e segurança de redes]*
-
----
-
-### 🌱 Atividades Extras
-
-- **[Atividade Voluntária/Extra]** — **[Instituição/Projeto]** | **[Período]**  
-  *[Breve descrição]*
+*Formado em Engenharia de Software, com atuação prática em Redes de Computadores. Essa combinação me dá uma visão integrada entre desenvolvimento e infraestrutura, unindo lógica de sistemas à conectividade e segurança de redes*
 
 ---
 
