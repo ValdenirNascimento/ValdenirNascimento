@@ -38,10 +38,9 @@ Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabb
 
 ### 🌐 Quem é Valdenir?
 
-- Moro em **[Sua Cidade, UF, Brasil]**
-- Técnico de Suporte por vocação
-- Hoje faço formações em **Redes de Computadores e Infraestrutura de TI**
-- Falo **[Idiomas que você fala]**
+- Moro em **[Nova Mutum, MT, Brasil]**
+- Técnico de Suporte de Telecom
+- Hoje tenho formação em **Engenharia de Software**
 
 ---
 
