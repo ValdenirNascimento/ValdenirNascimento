@@ -51,6 +51,7 @@ Essa visão centrada no usuário é o que guia meu trabalho. Acredito que o supo
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
 </div>
+
 ---
 
 ### 📂 Projetos (em construção)
