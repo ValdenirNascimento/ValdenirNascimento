@@ -58,10 +58,19 @@ Atuar como **Técnico de Suporte ou Analista de Infraestrutura Júnior**, garant
 
 <div align="center">
 
-![Valdenir GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdenirNascimento&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdenirNascimento&layout=compact&theme=tokyonight)
+<!-- Estatísticas principais -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdenirNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdenirNascimento&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<!-- Alternativa com streak stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ValdenirNascimento&theme=tokyonight"/>
 
 </div>
+
+> ⚠️ **Nota**: Se as imagens não carregarem, verifique se:
+> - Seu usuário do GitHub está correto: `ValdenirNascimento`
+> - Você tem repositórios públicos (as estatísticas só funcionam com repositórios públicos)
+> - Aguarde alguns segundos para o carregamento completo
 
 ---
 
