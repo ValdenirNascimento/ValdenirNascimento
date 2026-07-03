@@ -17,19 +17,6 @@ Essa visão centrada no usuário é o que guia meu trabalho. Acredito que o supo
 
 ---
 
-### 💡 Conte com minhas competências em…
-
-#### Habilidade 1 — Diagnóstico e Resolução de Problemas
-Identificação e correção de falhas em redes de internet, roteadores, switches e fibra óptica, com foco em agilidade e precisão no atendimento ao cliente.
-
-#### Habilidade 2 — Atendimento ao Cliente (N1/N2)
-Condução de atendimentos remotos e presenciais, com escuta ativa, empatia e clareza técnica — transformando problemas complexos em soluções simples para o usuário.
-
-#### Habilidade 3 — Infraestrutura e Monitoramento
-Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabbix) e documentação de procedimentos, garantindo a estabilidade e performance da conexão.
-
----
-
 ## 🎯 Minha Missão
 
 > *"Minha missão é transformar problemas em soluções e complexidade em clareza técnica. Seja na rede, no atendimento ou na infraestrutura. Acredito que boas conexões nascem da escuta genuína e de um processo de suporte bem estruturado. Por isso, coloco o usuário no centro de cada decisão — não como tendência, mas como princípio."*
@@ -62,8 +49,8 @@ Configuração e manutenção de redes, monitoramento de serviços (Nagios, Zabb
 
 - **Redes:** TCP/IP, DNS, DHCP, VPN, Firewall
 - **Sistemas:** Windows, Linux (básico)
-- **Ferramentas:** GLPI, OTRS, Freshdesk, Active Directory
-- **Monitoramento:** Nagios, Zabbix
+- **Ferramentas:** IXC, OPA
+- **Monitoramento:** INMAP
 
 ---
 
